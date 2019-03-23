@@ -1,0 +1,14 @@
+﻿  Moc'ing Lab14.h...
+  Rcc'ing Lab14.qrc...
+  Uic'ing Lab14.ui...
+  RCC: Warning: No resources in 'C:\Users\catad\source\repos\Lab14\Lab14\Lab14.qrc'.
+  Controller.cpp
+  Dog.cpp
+  Lab14.cpp
+  main.cpp
+  Repository.cpp
+  UndoAction.cpp
+  Validator.cpp
+  moc_Lab14.cpp
+  qrc_Lab14.cpp
+  Lab14.vcxproj -> C:\Users\catad\source\repos\Lab14\x64\Debug\Lab14.exe
